@@ -1,0 +1,2 @@
+16-11-2026 11:31 | LED Bulb x5 @ 6.0h, Ceiling Fan x2 @ 8.0h, Television x1 @ 4.0h, Refrigerator x1 @ 24.0h, AC x1 @ 2.0h | Total: 280.80 kWh | Cost: Rs. 1825.20 | Highest: Refrigerator | Level: Moderate
+16-11-2026 11:31 | Ceiling Fan x1 @ 8.0h, AC x1 @ 3.0h | Total: 153.00 kWh | Cost: Rs. 994.50 | Highest: AC | Level: Moderate
